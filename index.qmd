@@ -8,7 +8,7 @@ This is site was generated using the [NOAA simple quarto template](https://githu
 
 ## say hi to pancake.
 
-![100-1005201_pomeranian-clipart-transparent-ghost-trick-dog](https://user-images.githubusercontent.com/115590041/197060188-8a46ade9-fc2a-4f8f-86f2-7762caf96034.png)
+![This is Pancake. Isn't she fantastic?!](https://user-images.githubusercontent.com/115590041/197060188-8a46ade9-fc2a-4f8f-86f2-7762caf96034.png)
 
 ## Disclaimer:
 This repository is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce.
