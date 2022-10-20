@@ -2,16 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NOAA quarto simple",
+    "title": "fantastic pancake",
     "section": "",
-    "text": "This is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch."
+    "text": "This is site was generated using the NOAA simple quarto template. This is not an official communication in any way. The main function of this site is to explore using github and quarto, and have fun while learning!"
   },
   {
-    "objectID": "index.html#github-set-up",
-    "href": "index.html#github-set-up",
-    "title": "NOAA quarto simple",
-    "section": "GitHub Set-up",
-    "text": "GitHub Set-up\n\nClick the green “use template” button to make a repository with this content.\nTurn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings > Actions > General\nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings > Pages page to find the url."
+    "objectID": "index.html#say-hi-to-pancake.",
+    "href": "index.html#say-hi-to-pancake.",
+    "title": "fantastic pancake",
+    "section": "say hi to pancake.",
+    "text": "say hi to pancake.\n\n\n\n100-1005201_pomeranian-clipart-transparent-ghost-trick-dog"
+  },
+  {
+    "objectID": "index.html#disclaimer",
+    "href": "index.html#disclaimer",
+    "title": "fantastic pancake",
+    "section": "Disclaimer:",
+    "text": "Disclaimer:\nThis repository is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce."
   },
   {
     "objectID": "content/customizing.html",
