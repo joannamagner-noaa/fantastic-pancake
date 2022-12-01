@@ -6,12 +6,14 @@ page-layout: full
 
 This is site was generated using the [NOAA simple quarto template](https://github.com/nmfs-opensci/NOAA-quarto-simple). This is not an official communication in any way. The main function of this site is to explore using github and quarto, to figure out if a quarto page makes sense as a central location for various RSST info, and to have fun while learning! 
 
-## RSST Notebook
+## What is a "RSST Notebook"?
 
 **Potential things that we would include on an RSST Notebook page...**
-- At-sea inventory lists / gear packed lists
-- SDS for chemicals sent out on survey vessels
-- And more...!
+* At-sea inventory lists / gear packed lists
+* User manuals for equipment (Marel scales, tablets, etc)
+* Troubleshooting docs, helpful references, etc
+* SDS for chemicals sent out on survey vessels
+* And more...!
 
 
 ## Disclaimer:
