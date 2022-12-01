@@ -1,14 +1,18 @@
 ---
-title: "fantastic pancake"
+title: "RSST Notebook"
 subtitle: "an adventure in quarto"
 page-layout: full
 ---
 
-This is site was generated using the [NOAA simple quarto template](https://github.com/nmfs-opensci/NOAA-quarto-simple). This is not an official communication in any way. The main function of this site is to explore using github and quarto, and have fun while learning! 
+This is site was generated using the [NOAA simple quarto template](https://github.com/nmfs-opensci/NOAA-quarto-simple). This is not an official communication in any way. The main function of this site is to explore using github and quarto, to figure out if a quarto page makes sense as a central location for various RSST info, and to have fun while learning! 
 
-## say hi to pancake.
+## RSST Notebook
 
-![This is Pancake. Isn't she fantastic?!](https://user-images.githubusercontent.com/115590041/197060188-8a46ade9-fc2a-4f8f-86f2-7762caf96034.png)
+**Potential things that we would include on an RSST Notebook page...**
+- At-sea inventory lists / gear packed lists
+- SDS for chemicals sent out on survey vessels
+- And more...!
+
 
 ## Disclaimer:
 This repository is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce.
