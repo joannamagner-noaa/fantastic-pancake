@@ -135,21 +135,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "fantastic pancake",
+    "title": "RSST Notebook",
     "section": "",
-    "text": "This is site was generated using the NOAA simple quarto template. This is not an official communication in any way. The main function of this site is to explore using github and quarto, and have fun while learning!"
+    "text": "This is site was generated using the NOAA simple quarto template. This is not an official communication in any way. The main function of this site is to explore using github and quarto, to figure out if a quarto page makes sense as a central location for various RSST info, and to have fun while learning!"
   },
   {
-    "objectID": "index.html#say-hi-to-pancake.",
-    "href": "index.html#say-hi-to-pancake.",
-    "title": "fantastic pancake",
-    "section": "say hi to pancake.",
-    "text": "say hi to pancake.\n\n\n\nThis is Pancake. Isn’t she fantastic?!"
+    "objectID": "index.html#rsst-notebook",
+    "href": "index.html#rsst-notebook",
+    "title": "RSST Notebook",
+    "section": "RSST Notebook",
+    "text": "RSST Notebook\nPotential things that we would include on an RSST Notebook page… - At-sea inventory lists / gear packed lists - SDS for chemicals sent out on survey vessels - And more…!"
   },
   {
     "objectID": "index.html#disclaimer",
     "href": "index.html#disclaimer",
-    "title": "fantastic pancake",
+    "title": "RSST Notebook",
     "section": "Disclaimer:",
     "text": "Disclaimer:\nThis repository is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce."
   }
