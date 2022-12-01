@@ -8,12 +8,13 @@ This is site was generated using the [NOAA simple quarto template](https://githu
 
 ## What is a "RSST Notebook"?
 
-**Potential things that we would include on an RSST Notebook page...**
-* At-sea inventory lists / gear packed lists
-* User manuals for equipment (Marel scales, tablets, etc)
-* Troubleshooting docs, helpful references, etc
-* SDS for chemicals sent out on survey vessels
-* And more...!
+**Potential things that we would include on an RSST Notebook page...** 
+ 
+* At-sea inventory lists / gear packed lists 
+* User manuals for equipment (Marel scales, tablets, etc) 
+* Troubleshooting docs, helpful references, etc 
+* SDS for chemicals sent out on survey vessels 
+* And more...! 
 
 
 ## Disclaimer:
