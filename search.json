@@ -140,11 +140,11 @@
     "text": "This is site was generated using the NOAA simple quarto template. This is not an official communication in any way. The main function of this site is to explore using github and quarto, to figure out if a quarto page makes sense as a central location for various RSST info, and to have fun while learning!"
   },
   {
-    "objectID": "index.html#rsst-notebook",
-    "href": "index.html#rsst-notebook",
+    "objectID": "index.html#what-is-a-rsst-notebook",
+    "href": "index.html#what-is-a-rsst-notebook",
     "title": "RSST Notebook",
-    "section": "RSST Notebook",
-    "text": "RSST Notebook\nPotential things that we would include on an RSST Notebook page… - At-sea inventory lists / gear packed lists - SDS for chemicals sent out on survey vessels - And more…!"
+    "section": "What is a “RSST Notebook”?",
+    "text": "What is a “RSST Notebook”?\nPotential things that we would include on an RSST Notebook page… * At-sea inventory lists / gear packed lists * User manuals for equipment (Marel scales, tablets, etc) * Troubleshooting docs, helpful references, etc * SDS for chemicals sent out on survey vessels * And more…!"
   },
   {
     "objectID": "index.html#disclaimer",
